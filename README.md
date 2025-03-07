@@ -3,4 +3,4 @@
 
 **[Built for the Astradal Minecraft Server](https://astradal.net)**
 
-**This is a plugin the prevents villager trading**
+**This is a plugin that prevents villager trading**
